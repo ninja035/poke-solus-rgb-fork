@@ -155,21 +155,19 @@ Thank you to [pret][pret], the people of the [pret Discord server][pretdiscord],
 ## Support the Solus Project
 If you want to show your support, you could:
 - Give this repository a Star :star:
-- [Join the Solus Discord][solusdiscord] to offer feedback
+- [Join the Solus Discord][solusdiscord]
 - [Write a review][review]
-- Publish a video review
+- Publish a video (review, playthrough, etc.)
 - Share the project with someone who might be interested
 
 Any form of support is greatly appreciated (really).  
-
-[![solus discord](https://flat.badgen.net/discord/members/YTxu5uM7r6?icon=discord)][solusdiscord]  
+ 
 [PokemonSolus.com][homepage]
 
 <p align="center"><a href="https://www.pokemonsolus.com"><img src="screenshots/pokemon_solus_logo.png" width="150px"></a></p>
 
-<hr/>
-
-Please don't sell this romhack or anything crazy like that. I don't profit from this romhack. I don't claim to own the rights to any of the code or assets or artwork in this repository. Thank you.
+## Disclaimer
+This is an unofficial fan project not affiliated with Nintendo, The Pokémon Company, Game Freak, or their affiliates. Please don't sell this romhack. I don't profit from this romhack. I don't claim to own the rights to any of the code, assets or artwork in this repository.
 
 <!-- LINKS -->
 [homepage]: https://www.pokemonsolus.com
