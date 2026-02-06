@@ -1072,7 +1072,7 @@ OaksLabOak1Text:
 .give_poke_balls
 	CheckAndSetEvent EVENT_GOT_POKEBALLS_FROM_OAK
 	jr nz, .come_see_me_sometimes
-	lb bc, POKE_BALL, 5
+	lb bc, POKE_BALL, 20
 	call GiveItem
 	ld hl, .GivePokeballsText
 	call PrintText
