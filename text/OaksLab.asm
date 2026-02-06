@@ -125,7 +125,7 @@ _OaksLabOak1ReceivedPokeballsText::
 	cont "to capture wild"
 	cont "#MON."
 
-	para "<PLAYER> got 5"
+	para "<PLAYER> got 20"
 	line "# BALLs!@"
 	text_end
 
